@@ -1,0 +1,4 @@
+#Sat Mar 02 19:09:09 IST 2019
+base.0=/home/techunity/AndroidStudioProjects/sample/AutoSmS1/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
